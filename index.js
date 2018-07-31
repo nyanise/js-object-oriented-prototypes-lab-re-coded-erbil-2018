@@ -22,5 +22,6 @@
  
 polishedBoardMember = new BoardMember("Mr. Polished", "New York", "law")
 backSlappingGene = new BoardMember("Mr. Gene", "Delaware", "business")
+poblishedBoarMember.sayHi();
 
  } 
